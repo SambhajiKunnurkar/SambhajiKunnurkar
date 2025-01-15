@@ -14,3 +14,14 @@ I'm a full stack developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sambhaji2456?t=c-mOnAJprUjVKYzDaZO-9g&s=09)
 [![Instagram](https://img.shields.io/badge/insatagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_w_sam/)
 
+
+## Tech Stack
+
+**Client:** HTML, CSS, React, Redux, TailwindCSS
+
+**Server:** Nodejs, Expressjs, Python
+
+**Database:** MySql, MongoDB
+
+**Cloud:** AWS, Digital Ocean
+
