@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm a MERN stack developer...
+I'm a full-stack developer using the MERN stack (MongoDB, Express, React, Node.js), with hands-on experience creating responsive and user-friendly projects. Known for problem-solving skills, a collaborative approach, and a drive to continuously learn and grow. Excited to contribute technical expertise and fresh perspectives to a forward-thinking development team.
 
 
 ## 🔗 Links
